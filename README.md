@@ -1,3 +1,7 @@
+# Lista de tarefas simples feita com React!
+
+<img src="https://user-images.githubusercontent.com/86668032/177154220-e2c7e65b-9d01-4980-94fd-4ac3d18823db.png"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
